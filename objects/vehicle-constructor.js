@@ -1,7 +1,5 @@
 'use strict';
 
-const car = require('../objects/vehicle-class.js')
-
 const Vehicle = function(name, wheels) {
   this.name = name;
   this.wheels = wheels;
